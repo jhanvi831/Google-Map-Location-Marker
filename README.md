@@ -28,3 +28,4 @@ Steps to get started:
  
  You'll be needing this API key in index.html file.
  
+Deployed Link: https://jhanvi831.github.io/Google-Map-Location-Marker/
