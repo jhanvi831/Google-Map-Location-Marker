@@ -22,6 +22,7 @@ function initMap(){
     content: `<h2>West Bengal</h2>`},
 
     {location: {lat: 26.2006043, lng: 92.9375739},
+    imageIcon: "https://img.icons8.com/nolan/2x/marker.png",
     content: `<h2>Assam</h2>`},
 
     {location: {lat: 27.532972, lng: 88.512218},
